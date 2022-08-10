@@ -24,7 +24,7 @@ Path :-
 
 ##IMAGE
 
-<img width="1438" alt="Screenshot 2022-07-10 at 6 28 52 PM" target = "_Blank" src="https://user-images.githubusercontent.com/99706585/178145888-e2551420-4660-4427-ac48-3c32314bff79.png">
+<img width="1438" alt="Screenshot 2022-07-10 at 6 28 52 PM"  src="https://user-images.githubusercontent.com/99706585/178145888-e2551420-4660-4427-ac48-3c32314bff79.png">
 
 
 ## Built with
